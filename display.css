@@ -1,0 +1,24 @@
+
+.first{
+display:block;
+border:3px solidblack;
+background-color:Grey;
+width:200px;
+height:15px;
+}
+
+.second{
+display:inline;
+border:3px solidblack;
+background-color:Blue;
+width:20px;
+height:15px;
+}
+
+.third{
+display:inli;
+border:3px solidblack;
+background-color:yellow;
+width:200px;
+height:50px;
+}
